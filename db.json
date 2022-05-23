@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Haritha",
+      "lastName": "Pavuluri",
+      "email": "hari@gmail.com",
+      "mobile": "999999999",
+      "salary": "34567"
+    },
+    {
+      "id": 3,
+      "firstName": "Diyansh",
+      "lastName": "Rallabandi",
+      "email": "diyansh@gmail.com",
+      "mobile": "999999999",
+      "salary": "45678"
+    },
+    {
+      "id": 4,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "mobile": "888888888",
+      "salary": "34721"
+    },
+    {
+      "id": 5,
+      "firstName": "naresh",
+      "lastName": "it",
+      "email": "naresh@gmail.com",
+      "mobile": "848484848",
+      "salary": "46453"
+    },
+    {
+      "id": 6,
+      "firstName": "phani",
+      "lastName": "naresh",
+      "email": "phani@gmail.com",
+      "mobile": "83838383",
+      "salary": "23929"
+    },
+    {
+      "id": 7,
+      "firstName": "prudhvivarma51986@gmail.com",
+      "lastName": "prudhvivarma51986@gmail.com",
+      "email": "prudhvivarma51986@gmail.com",
+      "mobile": "0987654321",
+      "salary": "8765"
+    },
+    {
+      "id": 8,
+      "firstName": "raghu",
+      "lastName": "varma",
+      "email": "raghu@gmail.com",
+      "mobile": "876543345678",
+      "salary": "30000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

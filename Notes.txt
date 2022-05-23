@@ -1,0 +1,10 @@
+-> We should have angular setup
+    -> Node JS, NPM, Typescript, Angular CLI
+-> JSON Server Setup
+    -> npm install -g json-server
+    -> json-server --watch db.json
+-> Bootstrap Setup and add in the style.css
+-> Create  a Component "EmployeeDashboard" and call it from AppComponent
+-> Design the Component template
+-> Create a Service, whcih is used to connect to json-server db and implement the functionalities.
+-> Call those functionalities from component.
